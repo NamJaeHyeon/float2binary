@@ -1,5 +1,5 @@
 # float2binary
-cpp. print float to binary   
+watch float value as binary using C++  
 ### axiom
 IEEE754   
 (sign 1bit)(exponent 8bit)(mentissa 23bit)   
